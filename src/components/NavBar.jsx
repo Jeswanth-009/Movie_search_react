@@ -7,7 +7,7 @@ function NavBar() {
             <Link to="/Movie_search_react">Movie App</Link>
         </div>
         <div className="navbar-links">
-            <Link to="/movie_search" className="nav-link">Home</Link>
+            <Link to="/Movie_search_react" className="nav-link">Home</Link>
             <Link to="/favorites" className="nav-link">Favorites</Link>
             <Link to="/about">About</Link>
         </div>
